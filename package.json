@@ -18,7 +18,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "bitcore-lib": "git://github.com/digibyte/bitcore-lib.git#101a50add42339d1445664f02cbd6f63ccde0acd",
+    "bitcore-lib": "git://github.com/dgbholdings/bitcore-lib.git#ce3dd82348af1091d6bd91e5d60fe3b55ff4c1ac",
     "bitcore-mnemonic": "~1.0.0",
     "bitcore-payment-protocol": "~1.0.0",
     "browser-request": "^0.3.3",
